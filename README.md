@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2022/09/16現在
+2022/11/11現在
 
 ## 目次
 
@@ -25,6 +25,9 @@
 |Qiita|[ymp-a](https://qiita.com/ymp-a)|
 |note|[ymp_a](https://note.com/ymp_a/)|
 |connpass|[ymp-a](https://connpass.com/user/ymp-a/)|
+|paiza|rank C|
+
+<img width="500" alt="スクリーンショット 2022-11-11 23 29 48" src="https://user-images.githubusercontent.com/68992872/201361873-b8ab5b3b-5a1e-4364-be2c-6f65f53da2f9.png">
 
 ## スキルレベル
 
@@ -32,9 +35,9 @@
 
 |言語|レベル|
 |:--|:--|
-|Swift|1年半|
-|Delphi|1年半|
-|RPGⅢ|半年|
+|Swift|2年|
+|Delphi|2年|
+|RPGⅢ|1年|
 |Ruby|3ヶ月|
 
 ## 職務経歴
@@ -75,7 +78,7 @@
 - 要件定義打合せ
 - データ加工
 - 開発コーディング、単体テスト
-- テクニカルサポート
+- テクニカルサポート（12社担当）
 
 ##### 担当機能
 - 複数明細納品書
@@ -86,29 +89,37 @@
 ##### 技術スタック
 
 【開発言語】
-- Delphi XE7
-- Delphi10.2
-- Delphi11.0
-- RPGⅢ
+  - Delphi XE7
+  - Delphi10.2
+  - Delphi11.0
+  - RPGⅢ
+  
 【バージョン管理】
-- TortoiseSVN
+  - TortoiseSVN
+  
 【SQL検証ツール】
-- Common SQL Environment 1.61
+  - Common SQL Environment 1.61
+  
 【DB】
-- AS-400
-- Azure
+  - AS400
+  - Azure
+  
 【DB管理】
-- Microsoft SQL Server Management Studio
+  - Microsoft SQL Server Management Studio
+  
 【オンラインサポートツール】
-- teamviewer
-- ZOOM
+  - teamviewer
+  - ZOOM
+  
 【OCRツール】
-- DX Suite
+  - DX Suite
+  
 【RPAツール】
-- マクロマン
+  - マクロマン
+  
 【帳票ツール】
-- fastReport5
-- fastReportVCL
+  - fastReport5
+  - fastReportVCL
 
 
 
@@ -187,7 +198,7 @@
 - RICOH360°カメラ
 - 写真撮影、加工
 - Adobe Acrobat
-- 
+
 
 ## 印象に残ったプロジェクト
 
@@ -202,17 +213,35 @@
 ## 自己PR
 - 目標に向かってPDCAを回す意識があります
 - エクセル関数、帳票など細かで地味な調整が得意です
-- 学習習慣化環境を求めコワーキングスペース月極会員です
-### coming soon
+- 学習習慣化環境を求めた結果平日終業後19時から24時までコワーキングスペースで作業することが多いです
 
-coming soon
+### プライベートの技術スタック
+- swift
+- Xcode
+- Git
+- GitHub
+- miro
+- Slack
 
 ## 性格や考え方
+
+- コレクター気質です
+- 欲しいと思ったものは手に入れたい
+- やってみる経験重視
+- 一人でできることはやりきりたい
+
+## 趣味
+- パズル
+- テイスティング(ウイスキー、赤ワイン)
+- ヤフオク
+- マンガ
+- 音楽鑑賞(ジャズ、プログレ、インスト、ゲーム音楽が多め)
+
 
 coming soom
 
 ## 今後のキャリアプラン
-- swiftを書きたいです
+- swiftを使う仕事をしたいです
 ### 今後のライフプラン
 - バイクを所持できる生活にする
 - 引越しする
