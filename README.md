@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2022/11/11現在
+2022/11/15現在
 
 ## 目次
 
@@ -27,7 +27,8 @@
 |connpass|[ymp-a](https://connpass.com/user/ymp-a/)|
 |paiza|rank C|
 
-<img width="500" alt="スクリーンショット 2022-11-11 23 29 48" src="https://user-images.githubusercontent.com/68992872/201361873-b8ab5b3b-5a1e-4364-be2c-6f65f53da2f9.png">
+<img width="500" alt="スクリーンショット 2022-11-11 23 29 48" src="https://user-images.githubusercontent.com/68992872/201950189-51391eb3-d428-4246-a550-4d4d14774db7.png">
+
 
 ## スキルレベル
 
