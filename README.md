@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2022/11/28現在
+2022/11/29現在
 
 ## 目次
 
@@ -26,21 +26,19 @@
 |Qiita|[ymp-a](https://qiita.com/ymp-a)|
 |note|[ymp_a](https://note.com/ymp_a/)|
 |connpass|[ymp-a](https://connpass.com/user/ymp-a/)|
-|paiza|swift rank C|
-
-<img width="200" alt="スクリーンショット 2022-11-25 23 38 52" src="https://user-images.githubusercontent.com/68992872/204007349-d5f73991-2c6e-4af9-bcd6-0699ccdd1ec5.png">
 
 
 ## スキルレベル
 
 ### 言語
 
-|言語|レベル|
-|:--|:--|
+|言語|レベル|||
+|:--|:--|--|--|
 |Swift|2年|
 |Delphi|2年|
 |RPGⅢ|1年|
 |Ruby|3ヶ月|
+|paiza<br>Swift_only|<img width="150" alt="スクリーンショット 2022-11-28 23 10 45" src="https://user-images.githubusercontent.com/68992872/204298557-49f19480-2dea-45a4-a0a8-50b875a83971.png">|<img width="200" alt="スクリーンショット 2022-11-25 23 38 52" src="https://user-images.githubusercontent.com/68992872/204299362-6c4ff227-f170-42fe-871e-daf8e14e4207.png">|
 
 ## ポートフォリオ
 
