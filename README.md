@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2022/11/29現在
+2022/12/12現在
 
 ## 目次
 
@@ -38,7 +38,8 @@
 |Delphi|2年|
 |RPGⅢ|1年|
 |Ruby|3ヶ月|
-|paiza<br>Swift_only|<img width="150" alt="スクリーンショット 2022-11-28 23 10 45" src="https://user-images.githubusercontent.com/68992872/204298557-49f19480-2dea-45a4-a0a8-50b875a83971.png">|<img width="200" alt="スクリーンショット 2022-11-25 23 38 52" src="https://user-images.githubusercontent.com/68992872/204299362-6c4ff227-f170-42fe-871e-daf8e14e4207.png">|
+|paiza<br>Swift_only|<img width="150" alt="スクリーンショット 2022-11-28 23 10 45" src="https://user-images.githubusercontent.com/68992872/207062189-56ff6c22-aa5f-4641-85e5-b835794bd33a.png">|<img width="200" alt="スクリーンショット 2022-11-25 23 38 52" src="https://user-images.githubusercontent.com/68992872/207062264-5921775a-17e1-4bb5-949a-cc6d8c4626c7.png">|
+
 
 ## ポートフォリオ
 
