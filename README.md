@@ -38,7 +38,7 @@
 |Delphi|2年|
 |RPGⅢ|1年|
 |Ruby|3ヶ月|
-|paiza<br>Swift_only|<img width="150" alt="スクリーンショット 2022-11-28 23 10 45" src="https://user-images.githubusercontent.com/68992872/207062189-56ff6c22-aa5f-4641-85e5-b835794bd33a.png">|<img width="200" alt="スクリーンショット 2022-11-25 23 38 52" src="https://user-images.githubusercontent.com/68992872/207062264-5921775a-17e1-4bb5-949a-cc6d8c4626c7.png">|
+|paiza<br>Swift_only|<img width="150" alt="スクリーンショット 2022-11-28 23 10 45" src="https://user-images.githubusercontent.com/68992872/207062189-56ff6c22-aa5f-4641-85e5-b835794bd33a.png">|<img width="200" alt="スクリーンショット 2022-11-25 23 38 52" src="https://user-images.githubusercontent.com/68992872/207629915-3f676ae1-cd6b-49e1-8c4a-7df97dbc7a34.png">|
 
 
 ## ポートフォリオ
